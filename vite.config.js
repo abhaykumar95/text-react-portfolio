@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/text-react-portfolio/' // GitHub repository name
+  base: '/text-react-portfolio/' 
 });
